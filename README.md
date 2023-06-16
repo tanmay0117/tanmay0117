@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 I'm a Final Year coding enthusiast at VJTI. I have my expertise in Application Development. I am good at frontend and backend development of apps in Flutter (Dart) framework. 
+
 Along with this, I am interested in Data Structures and Algorithms and love problem solving.
 
 
@@ -24,7 +25,7 @@ Along with this, I am interested in Data Structures and Algorithms and love prob
 
 📫 How to reach Me
 
-- Email:
+- Email: tanmaymn2512@gmail.com
 - You can reach me on LinkedIn or any social media
 
 
