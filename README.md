@@ -17,7 +17,7 @@ Along with this, I am interested in Data Structures and Algorithms and love prob
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Flutter Development
 
-🧠 I'm currently learning Machine Learning and Neural Networks
+🧠 I'm currently learning Machine Learning
 
 👯‍♀️ I'm looking to collaborate on any Flutter based Project 
 
