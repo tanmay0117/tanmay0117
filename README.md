@@ -10,12 +10,15 @@ Along with this, I am interested in Data Structures and Algorithms and love prob
 
 
 ## 🔗 Links
+[![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nakto_choro?r=nametag)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-navandar-5bba4b206/)
+
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NavandarTanmay?t=reMdsNGE52razNPKPIGurg&s=09)
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Flutter Development
+👩‍💻 I'm currently working on a simple chat application WhatsUp using Flutter framework
 
 🧠 I'm currently learning Machine Learning
 
