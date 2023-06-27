@@ -18,7 +18,7 @@ Along with this, I am interested in Data Structures and Algorithms and love prob
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on a simple chat application WhatsUp using Flutter framework
+👩‍💻 I'm currently working on a simple API-based application using the Flutter framework
 
 🧠 I'm currently learning Machine Learning
 
