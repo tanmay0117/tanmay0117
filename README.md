@@ -17,7 +17,7 @@ Along with this, I am interested in Data Structures and Algorithms and love prob
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NavandarTanmay?t=reMdsNGE52razNPKPIGurg&s=09)
 
 
-## Other Common Github Profile Sections
+## Other 
 👩‍💻 I'm currently working on a simple API-based application using the Flutter framework
 
 🧠 I'm currently learning Machine Learning
